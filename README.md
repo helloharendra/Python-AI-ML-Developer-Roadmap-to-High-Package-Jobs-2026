@@ -1,4 +1,4 @@
-# 🚀 Python & AI/ML Developer Roadmap to High-Package Jobs (2025)
+# Python & AI/ML Developer Roadmap to High-Package Jobs (2025)
 
 A comprehensive roadmap to transform from beginner to high-paid AI/ML Engineer or Python Developer. This guide covers everything from Python fundamentals to advanced AI specializations, with clear milestones and project-based learning.
 
